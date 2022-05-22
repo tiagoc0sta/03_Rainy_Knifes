@@ -1,9 +1,4 @@
-# 03_Rainy_Knifes
-
-![image](https://user-images.githubusercontent.com/63982700/169712048-81bf6abf-2a4a-4aa6-9853-6117db94b6ab.png)
-
-
-# Rainy knifes - Game - Unity | C#
+# Rainy knifes - Game 
 
 Rainy knifes - Game project is taken from @awesometuts course video.
 It is an tutorial for an inicial gam, done in 44 minutes video.
