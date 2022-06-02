@@ -1,4 +1,4 @@
-# Rainy knifes - Game 
+# Rainy knives - Game 
 
 Rainy knifes - Game project is taken from @awesometuts course video.
 It is an tutorial for an inicial gam, done in 44 minutes video.
